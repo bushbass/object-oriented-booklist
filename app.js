@@ -107,3 +107,4 @@ document.querySelector('#book-list').addEventListener('click', (e) => {
 
   UI.showAlert('book deleted', 'success')
 })
+
